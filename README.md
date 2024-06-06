@@ -31,7 +31,7 @@ Pressione novamente o botão para desligar a esteira.
 Nota:
 Este projeto é uma demonstração simples de como controlar um motor usando um botão. Dependendo das especificações do seu motor e aplicação final, podem ser necessárias modificações no circuito e no código.
 
-#Materiais:
+# Materiais:
 
 Arduino (qualquer modelo compatível)
 Botão (pode ser um botão de pressão normalmente aberto)
