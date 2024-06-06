@@ -34,5 +34,7 @@ Este projeto é uma demonstração simples de como controlar um motor usando um 
 # Materiais:
 
 Arduino (qualquer modelo compatível)
+
 Botão (pode ser um botão de pressão normalmente aberto)
+
 Motor para Esteira (certifique-se de que o motor seja compatível com a alimentação do Arduino)
